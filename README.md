@@ -13,10 +13,7 @@
 
 <h2>Project Screenshots:</h2>
 
-![image](https://github.com/user-attachments/assets/1b539d5e-8974-4dd4-88e4-f28a8a30618c)
-![image](https://github.com/user-attachments/assets/960fa156-8c42-46a8-bde7-e97f1ba6ccde)
-![image](https://github.com/user-attachments/assets/f41b7690-0294-436b-96d7-7d47502a01c2)
-![image](https://github.com/user-attachments/assets/8fbcf31e-d256-4101-a895-4ade3f433350)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
